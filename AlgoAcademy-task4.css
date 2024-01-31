@@ -1,0 +1,25 @@
+.three{
+    background-color: rgb(233, 184, 156);
+}
+.four{
+    background-color: rgb(199, 131, 92);
+}
+
+.fife{
+    width: 150px;
+    height: 150px;
+}
+
+
+.two{
+    width: 1200px;
+    height: 150px;
+    display: flex;
+}
+
+.one{
+    width: 1200px;
+    height: 100%;
+    border: 4px solid black;
+    margin: 250px;
+}
