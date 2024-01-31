@@ -20,6 +20,41 @@
 .one{
     width: 1200px;
     height: 100%;
-    border: 4px solid black;
-    margin: 250px;
+    margin: auto    ;
+}
+
+.main{
+    width: 1200px;
+    height: 48px;
+    background-color: rgb(36, 37, 38);  
+    display: flex;
+    margin-left: 152px;
+}
+
+.new{
+    margin-top: -15px;
+    margin-left: 132px;
+}
+
+h1{
+    color: white;
+}
+
+.newa{
+    margin-left: 75px;
+}
+
+.hello{
+    width: 50px;
+    height: 150px;
+    background-color: rgb(36, 37, 38);
+}
+
+.web{
+    margin-left: 15px ;
+    margin-top: 60px;
+}
+
+.webeight{
+    margin-top: 50px;
 }
